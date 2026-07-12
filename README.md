@@ -1,12 +1,12 @@
 # HeroDoors
-Hero of Alexandria automatic doors simulation made with C# on Unity.
+# *`EN`* Hero of Alexandria automatic doors simulation made with C# on Unity.
 
 When the fire is lit then metal rod will heat up the water in tank located under the altar. Heated water will then flow through pipes to bucket.
 Bucket with water will overwiegth counterwieght and activate door mechanism for opening doors.
 When fire will be exetingushed tempreture of water will fall down and part of water will flow to main tank.
 That's would be enough for counterweight to overweight the bucket and activate door mechanism for closing doors.
 
-Симуляция автоматических дверей Герона Александрийского, созданная на C# в Unity.
+# *`RU`* Симуляция автоматических дверей Герона Александрийского, созданная на C# в Unity.
 
 При разведении огня металлический стержень нагревает воду в резервуаре, расположенном под алтарем. Нагретая вода по трубам стекает в емкость.
 Наполненная водой емкость перевешивает противовес и приводит в действие механизм открывания дверей.
