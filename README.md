@@ -6,7 +6,7 @@ Bucket with water will overwiegth counterwieght and activate door mechanism for 
 When fire will be exetingushed tempreture of water will fall down and part of water will flow to main tank.
 That's would be enough for counterweight to overweight the bucket and activate door mechanism for closing doors.
 
-# *`RU`* Симуляция автоматических дверей Герона Александрийского, созданная на C# в Unity.
+# *`RU`* Симуляция автоматических дверей Герона Александрийского на C# в Unity.
 
 При разведении огня металлический стержень нагревает воду в резервуаре, расположенном под алтарем. Нагретая вода по трубам стекает в емкость.
 Наполненная водой емкость перевешивает противовес и приводит в действие механизм открывания дверей.
